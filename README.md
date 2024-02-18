@@ -1,4 +1,4 @@
-# Progratics
+# RETO #2
 RETO # 2
 
 La idea es ejecutar el siguiente code:
